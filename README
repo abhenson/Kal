@@ -1,0 +1,1 @@
+simple script that looks for the Kal cartoon from 'the Economist' website and checks if it is a new one. If it is new then the image is both downloaded to a specified directory and sent to a specified email address. script runs without any arguments.
